@@ -1,12 +1,14 @@
-package by.epam.training;
+package by.epam.training.service;
 
+import by.epam.training.entities.Basket;
+import by.epam.training.entities.Ball;
 import java.util.Scanner;
 
 public class StartBasketBall {
     Scanner consol;
     Basket basket;
 
-    StartBasketBall() {
+    public StartBasketBall() {
         basket = new Basket();
     }
 

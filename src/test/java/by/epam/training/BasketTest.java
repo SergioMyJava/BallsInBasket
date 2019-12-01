@@ -1,5 +1,7 @@
 package by.epam.training;
 
+import by.epam.training.entities.Ball;
+import by.epam.training.entities.Basket;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
